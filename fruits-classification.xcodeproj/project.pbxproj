@@ -148,6 +148,8 @@
 				DEVELOPMENT_TEAM = 235VR6UC3H;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "fruits-classification/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to classify fruits.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to classify fruits from your photos.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +178,8 @@
 				DEVELOPMENT_TEAM = 235VR6UC3H;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "fruits-classification/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to classify fruits.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to classify fruits from your photos.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
